@@ -19,12 +19,11 @@ public class Elev extends Aplicant{
 	public void setTutore(String tutore) {
 		this.tutore = tutore;
 	}
-	
-	
+
 	@Override
 	public String toString() {
 		return "Elev: Nume=" + nume + ", Prenume=" + prenume + ", Varsta="
-				+ varsta + ", Punctaj=" + punctaj + ", Nr_proiecte=" + nr_proiecte  + ", DenumireProiect="
+				+ varsta + ", Punctaj=" + punctaj + ", Nrproiecte=" + nrProiecte + ", DenumireProiect="
 				+ Arrays.toString(denumireProiect) + "Clasa=" + clasa + ", Tutore=" + tutore;
 	}
 	
@@ -33,19 +32,14 @@ public class Elev extends Aplicant{
 	}
 	
 	public Elev(String nume, String prenume, int varsta, int punctaj,
-			int nr_proiecte, String[] denumireProiect, int clasa, String tutore) {
-		super(nume,prenume,varsta,punctaj,nr_proiecte,denumireProiect);
+			int nrProiecte, String[] denumireProiect, int clasa, String tutore) {
+		super(nume,prenume,varsta,punctaj,nrProiecte,denumireProiect);
 		this.clasa = clasa;
 		this.tutore = tutore;
 	}
-	
-//	public int finantare() {
-//		int s=30;
-//		System.out.println("Angajatul "+getNume()+" "+getPrenume()+" primeste"+s+" Euro/zi in proiect.");
-//		return s;
-//	}
-public void afiseazaInformatiiFinantare() {
-        System.out.println("Angajatul "+getNume()+" "+getPrenume()+" primeste"+sumaFinantata+" Euro/zi in proiect.");
-}
-	
+
+	public void afiseazaInformatiiFinantare() {
+        System.out.println("Angajatul " + getNume() + " " + getPrenume() + " primeste" + sumaFinantata + " Euro/zi in proiect.");
+	}
+
 }

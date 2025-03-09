@@ -17,21 +17,12 @@ public class PupilReader extends AplicantReader {
         List<Aplicant> elevi = new ArrayList<Aplicant>();
 
         while (input2.hasNext()) {
-//            String nume = input2.next();
-//            String prenume = input2.next();
-//            int varsta = input2.nextInt();
-//            int punctaj = input2.nextInt();
-//            int nr = input2.nextInt();
-//            String[] vect = new String[5];
-//            for (int i = 0; i < nr; i++)
-//                vect[i] = input2.next();
-
             Elev el = new Elev();
             super.citesteAplicant(input2,el);
-            int clasa = input2.nextInt();
-            String tutore = input2.next();
-            el.setClasa(clasa);
-            el.setTutore(tutore);
+
+            el.setClasa(input2.nextInt());
+            el.setTutore(input2.next());
+
             elevi.add(el);
         }
 

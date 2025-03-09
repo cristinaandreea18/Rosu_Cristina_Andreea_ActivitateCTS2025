@@ -20,18 +20,8 @@ public class AngajatiReader extends AplicantReader {
             Angajat ang = new Angajat();
             super.citesteAplicant(input2,ang);
 
-//            String nume = input2.next();
-//            String prenume = input2.next();
-//            int varsta = input2.nextInt();
-//            int punctaj = input2.nextInt();
-//            int nr = input2.nextInt();
-//            String[] vect = new String[5];
-//            for (int i = 0; i < nr; i++)
-//                vect[i] = input2.next();
-            int salariu = input2.nextInt();
-            String ocupatie = input2.next();
-            ang.setOcupatie(ocupatie);
-            ang.setSalariu(salariu);
+            ang.setSalariu(input2.nextInt());
+            ang.setOcupatie(input2.next());
             angajati.add(ang);
         }
         input2.close();

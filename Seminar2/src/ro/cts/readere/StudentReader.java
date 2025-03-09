@@ -17,13 +17,11 @@ public class StudentReader extends AplicantReader {
         List<Aplicant> studenti = new ArrayList<Aplicant>();
 
         while (input.hasNext()) {
-            //to do
             Student s = new Student();
             super.citesteAplicant(input,s);
-            int an_studii = input.nextInt();
-            String facultate = (input.next()).toString();
-            s.setFacultate(facultate);
-            s.setAn_studii(an_studii);
+
+            s.setAn_studii(input.nextInt());
+            s.setFacultate((input.next()).toString());
             studenti.add(s);
         }
         input.close();

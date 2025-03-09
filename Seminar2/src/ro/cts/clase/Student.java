@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class Student extends Aplicant {
 	protected String facultate;
 	protected int an_studii;
-
 	private static int sumaFinantata = 20;
 	
 	public String getFacultate() {
@@ -21,10 +20,8 @@ public class Student extends Aplicant {
 		this.an_studii = an_studii;
 	}
 
-
 	public Student() {
 		super();
-
 	}
 
 	public Student(String nume, String prenume, int varsta, int punctaj, int nr_proiecte, String[] denumireProiect, String facultate, int an_studii) {
@@ -32,13 +29,14 @@ public class Student extends Aplicant {
 		this.facultate = facultate;
 		this.an_studii = an_studii;
 	}
+
 	@Override
 	public String toString() {
-		return "Student: Nume=" + nume + ", Prenume=" + prenume + ", Varsta=" + varsta + ", Punctaj=" + punctaj + ", Nr_proiecte=" + nr_proiecte +  ", DenumireProiect=" + Arrays.toString(denumireProiect) + "Facultate=" + facultate + ", An_studii=" + an_studii ;
+		return "Student: Nume=" + nume + ", Prenume=" + prenume + ", Varsta=" + varsta + ", Punctaj=" + punctaj + ", Nr_proiecte=" + nrProiecte +  ", DenumireProiect=" + Arrays.toString(denumireProiect) + "Facultate=" + facultate + ", An_studii=" + an_studii ;
 	}
 
 	public void afiseazaInformatiiFinantare() {
-    	    System.out.println("Angajatul "+getNume()+" "+getPrenume()+" primeste"+sumaFinantata+" Euro/zi in proiect.");
+    	    System.out.println("Angajatul " + getNume() + " " + getPrenume() + " primeste " + sumaFinantata + " Euro/zi in proiect.");
 	}
 	
 }
