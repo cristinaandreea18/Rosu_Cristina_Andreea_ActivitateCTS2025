@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar5/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.1.SimpleFactory/Seminar4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.1.SimpleFactory/Seminar4.1.SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" />
     </modules>
   </component>
