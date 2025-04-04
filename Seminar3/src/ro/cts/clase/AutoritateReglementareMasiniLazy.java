@@ -5,7 +5,7 @@ public class AutoritateReglementareMasiniLazy {
     private String website;
     private int nrReglementari;
 
-    private static AutoritateReglementareMasiniLazy instanta = new AutoritateReglementareMasiniLazy("Autoritate Auto","www.autoritate.ro",0);
+    private static AutoritateReglementareMasiniLazy instanta = null;
     private AutoritateReglementareMasiniLazy(String numeAutoritate, String website, int nrReglementari) {
         this.numeAutoritate = numeAutoritate;
         this.website = website;
@@ -34,6 +34,7 @@ public class AutoritateReglementareMasiniLazy {
         nrReglementari++;
     }
 
+    //daca punem syncronized avem Thread Safe Singleton
     public static synchronized AutoritateReglementareMasiniLazy getInstance(String nume,String website){
         if(instanta==null) {
             instanta = new AutoritateReglementareMasiniLazy(nume,website,0);
