@@ -10,6 +10,7 @@ public class Main {
         System.out.println(rezervareCina2);
 
         RezervarePetrecere rezervarePetrecere = new RezervarePetrecere("Auras",2,"0768953421","Valentine's Day");
+        System.out.println(rezervarePetrecere);
         RezervarePetrecere rezervarePetrecere2 = (RezervarePetrecere) rezervarePetrecere.copiaza("Violeta");
         System.out.println(rezervarePetrecere2);
     }

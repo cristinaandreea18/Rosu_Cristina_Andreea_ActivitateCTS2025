@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A1/A1_V1/A1_V1.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A1/A1_V1/A1_V1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A1/A1_V2/A1_V2.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A1/A1_V2/A1_V2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/AplicatiaContBancar/AplicatiaContBancar.iml" filepath="$PROJECT_DIR$/ExBuilder/AplicatiaContBancar/AplicatiaContBancar.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/AplicatiiRestaurant.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/AplicatiiRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/AplicatiiSpital.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/AplicatiiSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar5/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV1/BuilderPachetTransportV1.iml" filepath="$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV1/BuilderPachetTransportV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" filepath="$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" />
@@ -27,6 +30,10 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Factory/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A1/Spital_A1.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A1/Spital_A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A2/Spital_A2.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A2/Spital_A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A3/Spital_A3.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A3/Spital_A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A4/Spital_A4.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A4/Spital_A4.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" />
