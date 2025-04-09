@@ -23,31 +23,31 @@ public class ContBancar {
         this.internetBanking = internetBanking;
     }
 
-    public void setDetinator(String detinator) {
+    protected void setDetinator(String detinator) {
         this.detinator = detinator;
     }
 
-    public void setSumaBlocata(double sumaBlocata) {
+    protected void setSumaBlocata(double sumaBlocata) {
         this.sumaBlocata = sumaBlocata;
     }
 
-    public void setSuma(double suma) {
+    protected void setSuma(double suma) {
         this.suma = suma;
     }
 
-    public void setMoneda(String moneda) {
+    protected void setMoneda(String moneda) {
         this.moneda = moneda;
     }
 
-    public void setCardAtasat(boolean cardAtasat) {
+    protected void setCardAtasat(boolean cardAtasat) {
         this.cardAtasat = cardAtasat;
     }
 
-    public void setContSalariu(boolean contSalariu) {
+    protected void setContSalariu(boolean contSalariu) {
         this.contSalariu = contSalariu;
     }
 
-    public void setInternetBanking(boolean internetBanking) {
+    protected void setInternetBanking(boolean internetBanking) {
         this.internetBanking = internetBanking;
     }
 
