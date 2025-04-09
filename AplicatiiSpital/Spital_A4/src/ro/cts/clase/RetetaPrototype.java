@@ -28,6 +28,14 @@ public abstract class RetetaPrototype {
         this.numeChimist ="Ion";
     }
 
+    public void setNumeChimist(String numeChimist) {
+        this.numeChimist = numeChimist;
+    }
+
+    public void setCodReteta(String codReteta) {
+        this.codReteta = codReteta;
+    }
+
     public abstract RetetaPrototype clone(String denumireMedicament);
 
     @Override

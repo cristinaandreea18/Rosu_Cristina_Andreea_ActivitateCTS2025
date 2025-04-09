@@ -16,6 +16,7 @@ public class RetetaMedicament extends RetetaPrototype {
     public RetetaMedicament(){
         super();
     }
+
     @Override
     public RetetaPrototype clone(String denumireMedicament) {
         RetetaMedicament retetaMedicament = new RetetaMedicament();

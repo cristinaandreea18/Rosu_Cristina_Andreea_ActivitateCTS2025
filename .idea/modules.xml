@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/AplicatiaContBancar/AplicatiaContBancar.iml" filepath="$PROJECT_DIR$/ExBuilder/AplicatiaContBancar/AplicatiaContBancar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/AplicatiiFarmacie.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/AplicatiiFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/AplicatiiRestaurant.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/AplicatiiRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/AplicatiiSpital.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/AplicatiiSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar5/Builder/Builder.iml" />
@@ -17,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/FactoryMethod2/FactoryMethod2.iml" filepath="$PROJECT_DIR$/Factory/FactoryMethod2/FactoryMethod2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C1/Farmacie_C1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B1/Restaurant_B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B2/Restaurant_B2.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B2/Restaurant_B2.iml" />
