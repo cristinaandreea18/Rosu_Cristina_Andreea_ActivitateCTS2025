@@ -14,7 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV1/BuilderPachetTransportV1.iml" filepath="$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV1/BuilderPachetTransportV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" filepath="$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/ExBuilder.iml" filepath="$PROJECT_DIR$/ExBuilder/ExBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/ExercitiiLucrare1.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/ExercitiiLucrare1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar8/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/FactoryMethod2/FactoryMethod2.iml" filepath="$PROJECT_DIR$/Factory/FactoryMethod2/FactoryMethod2.iml" />
@@ -22,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B1/Restaurant_B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B2/Restaurant_B2.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B2/Restaurant_B2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B3/Restaurant_B3.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B3/Restaurant_B3.iml" />
@@ -32,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Factory/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A1/Spital_A1.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A1/Spital_A1.iml" />
