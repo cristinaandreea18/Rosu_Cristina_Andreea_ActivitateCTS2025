@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" filepath="$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/Decorator_probleme.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/Decorator_probleme.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/ExBuilder.iml" filepath="$PROJECT_DIR$/ExBuilder/ExBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/ExercitiiLucrare1.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/ExercitiiLucrare1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar8/Facade/Facade.iml" />
@@ -46,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A3/Spital_A3.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A3/Spital_A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A4/Spital_A4.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A4/Spital_A4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" />
