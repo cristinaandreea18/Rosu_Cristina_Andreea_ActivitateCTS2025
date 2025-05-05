@@ -18,12 +18,14 @@
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/ExBuilder.iml" filepath="$PROJECT_DIR$/ExBuilder/ExBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/ExercitiiLucrare1.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/ExercitiiLucrare1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar8/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/Facade_problema.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/Facade_problema.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/FactoryMethod2/FactoryMethod2.iml" filepath="$PROJECT_DIR$/Factory/FactoryMethod2/FactoryMethod2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C1/Farmacie_C1.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Probleme curs.iml" filepath="$PROJECT_DIR$/Probleme curs/Probleme curs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/AplicatiiRestaurant/Restaurant_B1/Restaurant_B1.iml" />
@@ -43,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A2/Spital_A2.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A2/Spital_A2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A3/Spital_A3.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A3/Spital_A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiSpital/Spital_A4/Spital_A4.iml" filepath="$PROJECT_DIR$/AplicatiiSpital/Spital_A4/Spital_A4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" />
