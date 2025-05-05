@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C1/Farmacie_C1.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/Flyweight_probleme.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/Flyweight_probleme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Probleme curs.iml" filepath="$PROJECT_DIR$/Probleme curs/Probleme curs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
@@ -50,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" filepath="$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/agentie_flyweight/agentie_flyweight.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/agentie_flyweight/agentie_flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/factura_decorator/factura_decorator.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/factura_decorator/factura_decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" />
