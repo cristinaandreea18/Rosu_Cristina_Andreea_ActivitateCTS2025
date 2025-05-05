@@ -74,6 +74,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/hotel_flyweight/hotel_flyweight.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/hotel_flyweight/hotel_flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Proxy_probleme/hotel_proxy/hotel_proxy.iml" filepath="$PROJECT_DIR$/Probleme curs/Proxy_probleme/hotel_proxy/hotel_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Strategy_probleme/hotel_strategy/hotel_strategy.iml" filepath="$PROJECT_DIR$/Probleme curs/Strategy_probleme/hotel_strategy/hotel_strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" />
     </modules>
