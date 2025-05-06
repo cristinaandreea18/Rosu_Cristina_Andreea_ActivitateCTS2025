@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV1/BuilderPachetTransportV1.iml" filepath="$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV1/BuilderPachetTransportV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" filepath="$PROJECT_DIR$/ExBuilder/BuilderPachetTransportV2/BuilderPachetTransportV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderV2/BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Chain_of_Responsibility_probleme/Chain_of_Responsibility_probleme.iml" filepath="$PROJECT_DIR$/Probleme curs/Chain_of_Responsibility_probleme/Chain_of_Responsibility_probleme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Command_problema/Command_problema.iml" filepath="$PROJECT_DIR$/Probleme curs/Command_problema/Command_problema.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Composite_problema/Composite_problema.iml" filepath="$PROJECT_DIR$/Probleme curs/Composite_problema/Composite_problema.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
@@ -68,6 +69,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/S1.Biciclete/Var2Biciclete/Var2Biciclete.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/S1.Biciclete/Var2Biciclete/Var2Biciclete.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Chain_of_Responsibility_probleme/agentie_chain_of_responsibility/agentie_chain_of_responsibility.iml" filepath="$PROJECT_DIR$/Probleme curs/Chain_of_Responsibility_probleme/agentie_chain_of_responsibility/agentie_chain_of_responsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command/agentie_command.iml" filepath="$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command/agentie_command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command_undo/agentie_command_undo.iml" filepath="$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command_undo/agentie_command_undo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" filepath="$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" />
