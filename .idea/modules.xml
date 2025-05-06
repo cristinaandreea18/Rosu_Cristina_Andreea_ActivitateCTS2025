@@ -63,6 +63,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Sub4/Sub4.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Sub4/Sub4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Sub5/Sub5.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Sub5/Sub5.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Sub6/Sub6.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Sub6/Sub6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Template_Method_problema/Template_Method_problema.iml" filepath="$PROJECT_DIR$/Probleme curs/Template_Method_problema/Template_Method_problema.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/S1.Biciclete/Var1Biciclete/Var1Biciclete.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/S1.Biciclete/Var1Biciclete/Var1Biciclete.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/S1.Biciclete/Var2Biciclete/Var2Biciclete.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/S1.Biciclete/Var2Biciclete/Var2Biciclete.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" />
@@ -74,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Proxy_probleme/agentie_proxy/agentie_proxy.iml" filepath="$PROJECT_DIR$/Probleme curs/Proxy_probleme/agentie_proxy/agentie_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/State_probleme/agentie_state/agentie_state.iml" filepath="$PROJECT_DIR$/Probleme curs/State_probleme/agentie_state/agentie_state.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Strategy_probleme/agentie_strategy/agentie_strategy.iml" filepath="$PROJECT_DIR$/Probleme curs/Strategy_probleme/agentie_strategy/agentie_strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Template_Method_problema/agentie_template/agentie_template.iml" filepath="$PROJECT_DIR$/Probleme curs/Template_Method_problema/agentie_template/agentie_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/factura_decorator/factura_decorator.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/factura_decorator/factura_decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" />
