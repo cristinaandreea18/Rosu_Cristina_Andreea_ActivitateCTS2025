@@ -68,6 +68,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/agentie/agentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/agentieDecorator/agentieDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command/agentie_command.iml" filepath="$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command/agentie_command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command_undo/agentie_command_undo.iml" filepath="$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command_undo/agentie_command_undo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" filepath="$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/agentie_flyweight/agentie_flyweight.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/agentie_flyweight/agentie_flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Proxy_probleme/agentie_proxy/agentie_proxy.iml" filepath="$PROJECT_DIR$/Probleme curs/Proxy_probleme/agentie_proxy/agentie_proxy.iml" />
