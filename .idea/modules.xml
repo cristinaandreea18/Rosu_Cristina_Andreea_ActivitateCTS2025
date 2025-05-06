@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C2/Farmacie_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/AplicatiiFarmacie/Farmacie_C3/Farmacie_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/Flyweight_probleme.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/Flyweight_probleme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Memento_problema/Memento_problema.iml" filepath="$PROJECT_DIR$/Probleme curs/Memento_problema/Memento_problema.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Probleme curs.iml" filepath="$PROJECT_DIR$/Probleme curs/Probleme curs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
@@ -74,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command_undo/agentie_command_undo.iml" filepath="$PROJECT_DIR$/Probleme curs/Command_problema/agentie_command_undo/agentie_command_undo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" filepath="$PROJECT_DIR$/Probleme curs/Composite_problema/agentie_composite/agentie_composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/agentie_flyweight/agentie_flyweight.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/agentie_flyweight/agentie_flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme curs/Memento_problema/agentie_memento/agentie_memento.iml" filepath="$PROJECT_DIR$/Probleme curs/Memento_problema/agentie_memento/agentie_memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Proxy_probleme/agentie_proxy/agentie_proxy.iml" filepath="$PROJECT_DIR$/Probleme curs/Proxy_probleme/agentie_proxy/agentie_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/State_probleme/agentie_state/agentie_state.iml" filepath="$PROJECT_DIR$/Probleme curs/State_probleme/agentie_state/agentie_state.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Strategy_probleme/agentie_strategy/agentie_strategy.iml" filepath="$PROJECT_DIR$/Probleme curs/Strategy_probleme/agentie_strategy/agentie_strategy.iml" />
