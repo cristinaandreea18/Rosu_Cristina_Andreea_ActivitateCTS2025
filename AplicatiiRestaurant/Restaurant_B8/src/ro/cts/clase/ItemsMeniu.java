@@ -23,6 +23,6 @@ public class ItemsMeniu extends SectiuneMeniu {
 
     @Override
     public void afiseazaSectiune(String nivelIntermediar) {
-        System.out.println("Descriere sectiune "+nivelIntermediar);
+        System.out.println("Descriere sectiune "+getNumeSectiune());
     }
 }

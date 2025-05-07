@@ -29,7 +29,7 @@ public class SectiuneRestaurant extends SectiuneMeniu {
     public void afiseazaSectiune(String nivelIntermediar) {
         System.out.println("Nivel intermediar "+super.getNumeSectiune()+":");
         for(SectiuneMeniu sectiune: subSectiuni){
-            sectiune.afiseazaSectiune(nivelIntermediar);
+            sectiune.afiseazaSectiune(nivelIntermediar + " ");
         }
     }
 }
