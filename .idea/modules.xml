@@ -47,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/STB.1F/STB.1F.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/STB.1F/STB.1F.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/STB.3F/STB.3F.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/STB.3F/STB.3F.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
@@ -87,14 +88,17 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/State_probleme/agentie_state/agentie_state.iml" filepath="$PROJECT_DIR$/Probleme curs/State_probleme/agentie_state/agentie_state.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Strategy_probleme/agentie_strategy/agentie_strategy.iml" filepath="$PROJECT_DIR$/Probleme curs/Strategy_probleme/agentie_strategy/agentie_strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Template_Method_problema/agentie_template/agentie_template.iml" filepath="$PROJECT_DIR$/Probleme curs/Template_Method_problema/agentie_template/agentie_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/composite/composite.iml" filepath="$PROJECT_DIR$/Seminar10/composite/composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Decorator_probleme/factura_decorator/factura_decorator.iml" filepath="$PROJECT_DIR$/Probleme curs/Decorator_probleme/factura_decorator/factura_decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/Seminar10/flyweight/flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" filepath="$PROJECT_DIR$/Probleme curs/Facade_problema/hotel/hotel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/hotel_flyweight/hotel_flyweight.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/hotel_flyweight/hotel_flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Proxy_probleme/hotel_proxy/hotel_proxy.iml" filepath="$PROJECT_DIR$/Probleme curs/Proxy_probleme/hotel_proxy/hotel_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Strategy_probleme/hotel_strategy/hotel_strategy.iml" filepath="$PROJECT_DIR$/Probleme curs/Strategy_probleme/hotel_strategy/hotel_strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/template/template.iml" filepath="$PROJECT_DIR$/Seminar10/template/template.iml" />
     </modules>
   </component>
 </project>
