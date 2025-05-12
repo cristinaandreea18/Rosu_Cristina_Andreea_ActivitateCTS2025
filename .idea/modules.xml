@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/STB.3F/STB.3F.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/STB.3F/STB.3F.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/Seminar11.iml" filepath="$PROJECT_DIR$/Seminar11/Seminar11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
@@ -96,8 +97,10 @@
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Flyweight_probleme/hotel_flyweight/hotel_flyweight.iml" filepath="$PROJECT_DIR$/Probleme curs/Flyweight_probleme/hotel_flyweight/hotel_flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Proxy_probleme/hotel_proxy/hotel_proxy.iml" filepath="$PROJECT_DIR$/Probleme curs/Proxy_probleme/hotel_proxy/hotel_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme curs/Strategy_probleme/hotel_strategy/hotel_strategy.iml" filepath="$PROJECT_DIR$/Probleme curs/Strategy_probleme/hotel_strategy/hotel_strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/observer/observer.iml" filepath="$PROJECT_DIR$/Seminar11/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.1.SimpleFactory/sem4.1.SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" filepath="$PROJECT_DIR$/Seminar4/sem4.2.Prototype/sem4.2.Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/strategy/strategy.iml" filepath="$PROJECT_DIR$/Seminar11/strategy/strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/template/template.iml" filepath="$PROJECT_DIR$/Seminar10/template/template.iml" />
     </modules>
   </component>
