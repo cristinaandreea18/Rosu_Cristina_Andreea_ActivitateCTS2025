@@ -1,7 +1,7 @@
 package ro.cts.clase;
 
 public abstract class TemplateRetragereBancomat {
-    public void retragereDeLaBancomat(Card card,int pin,float suma){
+    public final void retragereDeLaBancomat(Card card,int pin,float suma){
         introduceCard(card);
         introducePin(pin);
         if(suma<card.getSoldCurent()){
