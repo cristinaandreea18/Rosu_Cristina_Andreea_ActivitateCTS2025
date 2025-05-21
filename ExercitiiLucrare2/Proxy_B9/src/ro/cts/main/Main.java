@@ -8,7 +8,7 @@ import ro.cts.clase.Rezervare;
 public class Main {
     public static void main(String[] args){
         Persoana persoana1 = new Persoana("Ilie","X","10:30",3);
-        Persoana persoana2 = new Persoana("Alex","Y","18:00",4);
+        Persoana persoana2 = new Persoana("Alex","Y","18:00",3);
 
         IRezervare rezervare = new Rezervare();
         rezervare.rezerva(persoana1);

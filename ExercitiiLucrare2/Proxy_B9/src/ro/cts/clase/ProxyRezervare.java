@@ -10,7 +10,7 @@ public class ProxyRezervare implements IRezervare {
     @Override
     public void rezerva(Persoana persoana) {
         if(persoana.getNumarPersoane()>=4){
-            System.out.println("S-a realizat rezervarea pentru "+persoana.getNume());
+            this.rezervare.rezerva(persoana);
         }
         else
             System.out.println("Va asteptam la restaurant!");
